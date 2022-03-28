@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Élève		TAR	387	nouvelle taille enregistrement : 387
+Élève	Ville	RUB+		Ville est une nouvelle rubrique
+Élève	Région	RUB+		Région est une nouvelle rubrique

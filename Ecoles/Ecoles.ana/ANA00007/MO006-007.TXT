@@ -1,0 +1,7 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+École		TAR	119	nouvelle taille enregistrement : 119
+École	Année	RUB+		Année est une nouvelle clé
+Classes		TAR	135	nouvelle taille enregistrement : 135
+Classes	Année	RUB+		Année est une nouvelle clé
+Contrainte_Année_Classes		NWL	Année (Année) et Classes (Année)	Nouvelle liaison entre les fichiers Année (Année) et Classes (Année)
+Contrainte_Année_École		NWL	Année (Année) et École (Année)	Nouvelle liaison entre les fichiers Année (Année) et École (Année)

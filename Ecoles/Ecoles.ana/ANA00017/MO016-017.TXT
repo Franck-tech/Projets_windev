@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Élève		TAR	591	nouvelle taille enregistrement : 591
+Élève	Statut	RUB-		la rubrique Statut est supprimée
+Élève	Date	RUB-		la rubrique Date est supprimée

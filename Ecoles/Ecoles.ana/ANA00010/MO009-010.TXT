@@ -1,0 +1,6 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+École		TAR	76	nouvelle taille enregistrement : 76
+École	Année	RUB-		la rubrique Année est supprimée
+Classes		TAR	92	nouvelle taille enregistrement : 92
+Classes	Sigle	CLE-*		la rubrique Sigle n'est plus une clé
+Classes	Année	RUB-		la rubrique Année est supprimée

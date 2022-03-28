@@ -1,0 +1,2 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Année	Année	CLEN*		la rubrique Année est maintenant une clé

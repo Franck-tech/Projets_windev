@@ -1,0 +1,4 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Présence		NFI		nouveau fichier
+Contrainte_Élève_Présence		NWL	Élève (IDÉlève) et Présence (IDÉlève)	Nouvelle liaison entre les fichiers Élève (IDÉlève) et Présence (IDÉlève)
+Présence	Statut	RRN		

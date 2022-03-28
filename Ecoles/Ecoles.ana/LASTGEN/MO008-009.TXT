@@ -1,0 +1,13 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Année		TAR	68	nouvelle taille enregistrement : 68
+Année		IDE+*		fichier avec identifiant
+Année	IDAnnée	RUB+		IDAnnée est une nouvelle clé
+Année	Année	CLE-*		la rubrique Année n'est plus une clé
+École		TAR	127	nouvelle taille enregistrement : 127
+École	IDAnnée	RUB+		IDAnnée est une nouvelle clé
+Classes		TAR	143	nouvelle taille enregistrement : 143
+Classes	IDAnnée	RUB+		IDAnnée est une nouvelle clé
+Contrainte_Année_École		NWL	Année (IDAnnée) et École (IDAnnée)	Nouvelle liaison entre les fichiers Année (IDAnnée) et École (IDAnnée)
+Contrainte_Année_Classes		NWL	Année (IDAnnée) et Classes (IDAnnée)	Nouvelle liaison entre les fichiers Année (IDAnnée) et Classes (IDAnnée)
+Contrainte_Année_Classes		DEL	Année (Année) et Classes (Année)	Liaison supprimée entre les fichiers Année (Année) et Classes (Année)
+Contrainte_Année_École		DEL	Année (Année) et École (Année)	Liaison supprimée entre les fichiers Année (Année) et École (Année)

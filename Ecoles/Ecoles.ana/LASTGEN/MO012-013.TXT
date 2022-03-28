@@ -1,0 +1,5 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Élève		TAR	591	nouvelle taille enregistrement : 591
+Élève	Année	RUB+		Année est une nouvelle clé
+Élève	Lieu	RUB+		Lieu est une nouvelle clé
+Élève	Sigle	RUB+		Sigle est une nouvelle clé

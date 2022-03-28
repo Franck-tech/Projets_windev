@@ -1,0 +1,6 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Classes		TAR	84	nouvelle taille enregistrement : 84
+Classes	IDÉlève	RUB+		IDÉlève est une nouvelle clé
+Classes	IDÉcole	RUB+		IDÉcole est une nouvelle clé
+Contrainte_Élève_Classes		NWL	Élève (IDÉlève) et Classes (IDÉlève)	Nouvelle liaison entre les fichiers Élève (IDÉlève) et Classes (IDÉlève)
+Contrainte_École_Classes		NWL	École (IDÉcole) et Classes (IDÉcole)	Nouvelle liaison entre les fichiers École (IDÉcole) et Classes (IDÉcole)

@@ -1,0 +1,7 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Élève		TAR	602	nouvelle taille enregistrement : 602
+Élève	Statut	RUB+		Statut est une nouvelle rubrique
+Élève	Date	RUB+		Date est une nouvelle rubrique
+Présence		FIC-	Présence	Fichier supprimé Présence
+Contrainte_Élève_Présence		DEL	Élève (IDÉlève) et Présence (IDÉlève)	Liaison supprimée entre les fichiers Élève (IDÉlève) et Présence (IDÉlève)
+Élève	Statut	RRN		
