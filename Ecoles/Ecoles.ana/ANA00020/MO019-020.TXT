@@ -1,0 +1,8 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+CarteScolaire		NNF*	Carte	nouveau nom CarteScolaire
+CarteScolaire		TAR	489	nouvelle taille enregistrement : 489
+CarteScolaire	NMatricule	RUB+		NMatricule est une nouvelle clé
+CarteScolaire	Téléphone	RUB+		Téléphone est une nouvelle rubrique
+CarteScolaire	Mobile	RUB-		la rubrique Mobile est supprimée
+CarteScolaire	CodeBarre	RUB-		la rubrique CodeBarre est supprimée
+CarteScolaire		FRN		
