@@ -1,0 +1,4 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+CarteScolaire		TAR	591	nouvelle taille enregistrement : 591
+CarteScolaire	dateImprime	RUB+		dateImprime est une nouvelle rubrique
+CarteScolaire	dateSupprime	RUB+		dateSupprime est une nouvelle rubrique

@@ -1,0 +1,4 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+CarteScolaire		TAR	507	nouvelle taille enregistrement : 507
+CarteScolaire	dateImprime	CNW	Date (aaaammjj)$Chaîne	la rubrique dateImprime a pour nouveau type Date (aaaammjj)
+CarteScolaire	dateSupprime	CNW	Date (aaaammjj)$Chaîne	la rubrique dateSupprime a pour nouveau type Date (aaaammjj)
