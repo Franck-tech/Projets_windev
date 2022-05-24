@@ -1,0 +1,4 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+Matière		FIC-	Matière	Fichier supprimé Matière
+Contrainte_Classes_Matière		DEL	Classes (IDClasses) et Matière (IDClasses)	Liaison supprimée entre les fichiers Classes (IDClasses) et Matière (IDClasses)
+Contrainte_Élève_Matière		DEL	Élève (IDÉlève) et Matière (IDÉlève)	Liaison supprimée entre les fichiers Élève (IDÉlève) et Matière (IDÉlève)

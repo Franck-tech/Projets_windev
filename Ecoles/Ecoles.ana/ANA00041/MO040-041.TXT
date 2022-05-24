@@ -1,0 +1,5 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Classes		TAR	108	nouvelle taille enregistrement : 108
+Classes	IDMatière	RUB+		IDMatière est une nouvelle clé
+Matière		NFI		nouveau fichier
+Contrainte_Classes_Matière		NWL	Matière (IDMatière) et Classes (IDMatière)	Nouvelle liaison entre les fichiers Matière (IDMatière) et Classes (IDMatière)
