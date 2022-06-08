@@ -1,0 +1,7 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+Classes		TAR	92	nouvelle taille enregistrement : 92
+Classes	IDMatière	RUB-		la rubrique IDMatière est supprimée
+Matière		TAR	178	nouvelle taille enregistrement : 178
+Matière	IDClasses	RUB+		IDClasses est une nouvelle clé
+Contrainte_Classes_Matière		NWL	Classes (IDClasses) et Matière (IDClasses)	Nouvelle liaison entre les fichiers Classes (IDClasses) et Matière (IDClasses)
+Contrainte_Classes_Matière		DEL	Matière (IDMatière) et Classes (IDMatière)	Liaison supprimée entre les fichiers Matière (IDMatière) et Classes (IDMatière)

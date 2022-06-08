@@ -1,0 +1,4 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+Login		TAR	99	nouvelle taille enregistrement : 99
+Login	Administrateur	RUB-		la rubrique Administrateur est supprimée
+Login	CompteActif	RUB-		la rubrique CompteActif est supprimée

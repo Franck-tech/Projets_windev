@@ -1,0 +1,7 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+Classes		TAR	92	nouvelle taille enregistrement : 92
+Classes	IDMatière	RUB-		la rubrique IDMatière est supprimée
+Classes_Matière		NFI		nouveau fichier
+Contrainte_Classes_Matière		NWL	Classes (IDClasses) et Classes_Matière (IDClasses)	Nouvelle liaison entre les fichiers Classes (IDClasses) et Classes_Matière (IDClasses)
+Contrainte_Matière_Classes		NWL	Matière (IDMatière) et Classes_Matière (IDMatière)	Nouvelle liaison entre les fichiers Matière (IDMatière) et Classes_Matière (IDMatière)
+Contrainte_Matière_Classes		DEL	Matière (IDMatière) et Classes (IDMatière)	Liaison supprimée entre les fichiers Matière (IDMatière) et Classes (IDMatière)

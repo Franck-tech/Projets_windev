@@ -1,0 +1,4 @@
+//MO048-049.TXT ANA00048 TO ANA00049
+Matière		TAR	170	nouvelle taille enregistrement : 170
+Matière	IDClasses	RUB-		la rubrique IDClasses est supprimée
+Contrainte_Classes_Matière		DEL	Classes (IDClasses) et Matière (IDClasses)	Liaison supprimée entre les fichiers Classes (IDClasses) et Matière (IDClasses)

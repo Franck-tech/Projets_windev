@@ -1,0 +1,3 @@
+//MO047-048.TXT ANA00047 TO ANA00048
+Matière		TAR	178	nouvelle taille enregistrement : 178
+Matière	Sigle	RUB+		Sigle est une nouvelle clé
