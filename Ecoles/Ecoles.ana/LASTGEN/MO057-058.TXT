@@ -1,0 +1,23 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+Élève		TAR	599	nouvelle taille enregistrement : 599
+Élève	IDClasses	RUB+		IDClasses est une nouvelle clé
+Année		TAR	76	nouvelle taille enregistrement : 76
+Année	IDClasses	RUB+		IDClasses est une nouvelle clé
+École		TAR	84	nouvelle taille enregistrement : 84
+École	IDClasses	RUB+		IDClasses est une nouvelle clé
+Classes		TAR	68	nouvelle taille enregistrement : 68
+Classes	IDÉlève	RUB-		la rubrique IDÉlève est supprimée
+Classes	IDÉcole	RUB-		la rubrique IDÉcole est supprimée
+Classes	IDAnnée	RUB-		la rubrique IDAnnée est supprimée
+Matière		TAR	178	nouvelle taille enregistrement : 178
+Matière	IDClasses	RUB+		IDClasses est une nouvelle clé
+Classes_Matière		FIC-	Classes_Matière	Fichier supprimé Classes_Matière
+Contrainte_Classes_Élève		NWL	Classes (IDClasses) et Élève (IDClasses)	Nouvelle liaison entre les fichiers Classes (IDClasses) et Élève (IDClasses)
+Contrainte_Classes_École		NWL	Classes (IDClasses) et École (IDClasses)	Nouvelle liaison entre les fichiers Classes (IDClasses) et École (IDClasses)
+Contrainte_Classes_Année		NWL	Classes (IDClasses) et Année (IDClasses)	Nouvelle liaison entre les fichiers Classes (IDClasses) et Année (IDClasses)
+Contrainte_Classes_Matière		NWL	Classes (IDClasses) et Matière (IDClasses)	Nouvelle liaison entre les fichiers Classes (IDClasses) et Matière (IDClasses)
+Contrainte_Élève_Classes		DEL	Élève (IDÉlève) et Classes (IDÉlève)	Liaison supprimée entre les fichiers Élève (IDÉlève) et Classes (IDÉlève)
+Contrainte_École_Classes		DEL	École (IDÉcole) et Classes (IDÉcole)	Liaison supprimée entre les fichiers École (IDÉcole) et Classes (IDÉcole)
+Contrainte_Année_Classes		DEL	Année (IDAnnée) et Classes (IDAnnée)	Liaison supprimée entre les fichiers Année (IDAnnée) et Classes (IDAnnée)
+Contrainte_Classes_Matière		DEL	Classes (IDClasses) et Classes_Matière (IDClasses)	Liaison supprimée entre les fichiers Classes (IDClasses) et Classes_Matière (IDClasses)
+Contrainte_Matière_Classes		DEL	Matière (IDMatière) et Classes_Matière (IDMatière)	Liaison supprimée entre les fichiers Matière (IDMatière) et Classes_Matière (IDMatière)

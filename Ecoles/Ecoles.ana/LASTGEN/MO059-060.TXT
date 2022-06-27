@@ -1,0 +1,2 @@
+//MO059-060.TXT ANA00059 TO ANA00060
+Contrainte_Classes_Matière		DEL	Classes (IDClasses) et Matière (IDClasses)	Liaison supprimée entre les fichiers Classes (IDClasses) et Matière (IDClasses)

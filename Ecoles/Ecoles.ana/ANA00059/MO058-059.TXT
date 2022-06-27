@@ -1,0 +1,14 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+Élève		TAR	616	nouvelle taille enregistrement : 616
+Élève	IDÉcole	RUB+		IDÉcole est une nouvelle clé
+Élève	IDAnnée	RUB+		IDAnnée est une nouvelle clé
+Année		TAR	68	nouvelle taille enregistrement : 68
+Année	IDClasses	RUB-		la rubrique IDClasses est supprimée
+École		TAR	68	nouvelle taille enregistrement : 68
+École	IDAnnée	RUB-		la rubrique IDAnnée est supprimée
+École	IDClasses	RUB-		la rubrique IDClasses est supprimée
+Contrainte_École_Élève		NWL	École (IDÉcole) et Élève (IDÉcole)	Nouvelle liaison entre les fichiers École (IDÉcole) et Élève (IDÉcole)
+Contrainte_Année_Élève		NWL	Année (IDAnnée) et Élève (IDAnnée)	Nouvelle liaison entre les fichiers Année (IDAnnée) et Élève (IDAnnée)
+Contrainte_Classes_École		DEL	Classes (IDClasses) et École (IDClasses)	Liaison supprimée entre les fichiers Classes (IDClasses) et École (IDClasses)
+Contrainte_Année_École		DEL	Année (IDAnnée) et École (IDAnnée)	Liaison supprimée entre les fichiers Année (IDAnnée) et École (IDAnnée)
+Contrainte_Classes_Année		DEL	Classes (IDClasses) et Année (IDClasses)	Liaison supprimée entre les fichiers Classes (IDClasses) et Année (IDClasses)

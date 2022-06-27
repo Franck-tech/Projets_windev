@@ -1,0 +1,5 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+Contrainte_Élève_Classes		NWL	Élève (IDÉlève) et Classes (IDÉlève)	Nouvelle liaison entre les fichiers Élève (IDÉlève) et Classes (IDÉlève)
+Contrainte_Année_Classes		NWL	Année (IDAnnée) et Classes (IDAnnée)	Nouvelle liaison entre les fichiers Année (IDAnnée) et Classes (IDAnnée)
+Contrainte_Élève_Classes		DEL	Élève (IDÉlève) et Classes (IDÉlève)	Liaison supprimée entre les fichiers Élève (IDÉlève) et Classes (IDÉlève)
+Contrainte_Année_Classes		DEL	Année (IDAnnée) et Classes (IDAnnée)	Liaison supprimée entre les fichiers Année (IDAnnée) et Classes (IDAnnée)
