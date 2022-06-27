@@ -1,0 +1,5 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+Professeur		TAR	481	nouvelle taille enregistrement : 481
+Professeur	Coef	CNW	Entier sur 4 octets$Chaîne	la rubrique Coef a pour nouveau type Entier sur 4 octets
+Matière		TAR	123	nouvelle taille enregistrement : 123
+Matière	Coef	CNW	Entier sur 4 octets$Chaîne	la rubrique Coef a pour nouveau type Entier sur 4 octets
