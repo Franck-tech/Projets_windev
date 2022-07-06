@@ -1,0 +1,4 @@
+//MO072-073.TXT ANA00072 TO ANA00073
+Bulletin		NFI		nouveau fichier
+TempExam		FIC-	TempExam	Fichier supprimé TempExam
+Bulletin	Civilité	RRN		
