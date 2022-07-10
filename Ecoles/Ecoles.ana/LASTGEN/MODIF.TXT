@@ -1,2 +1,2 @@
-//MO075-076.TXT ANA00075 TO ANA00076
-Notes	MoyGenerale	CLEN*		la rubrique MoyGenerale est maintenant une clé
+//MO076-077.TXT ANA00076 TO ANA00077
+Professeur	Matière	CLEN*		la rubrique Matière est maintenant une clé
