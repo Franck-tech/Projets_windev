@@ -1,0 +1,4 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+Calculs		TAR	96	nouvelle taille enregistrement : 96
+Calculs	IDAnnée	RUB+		IDAnnée est une nouvelle clé
+Contrainte_Année_Calculs		NWL	Année (IDAnnée) et Calculs (IDAnnée)	Nouvelle liaison entre les fichiers Année (IDAnnée) et Calculs (IDAnnée)

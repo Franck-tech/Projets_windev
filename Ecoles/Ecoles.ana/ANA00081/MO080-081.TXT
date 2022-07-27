@@ -1,0 +1,3 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+Professeur		TAR	532	nouvelle taille enregistrement : 532
+Professeur	TypeMatière	RUB+		TypeMatière est une nouvelle clé

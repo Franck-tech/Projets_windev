@@ -1,0 +1,7 @@
+//MO089-090.TXT ANA00089 TO ANA00090
+Notes	MoyGenerale	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique MoyGenerale a pour nouveau type Réel sur 4 octets
+Bulletin	MoyGenerale	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique MoyGenerale a pour nouveau type Réel sur 4 octets
+Rang	MoyGenerale	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique MoyGenerale a pour nouveau type Réel sur 4 octets
+Calculs	IDÉlève	RUB+		IDÉlève est une nouvelle clé
+Calculs	IDNotes	RUB-		la rubrique IDNotes est supprimée
+Contrainte_Notes_Calculs		DEL	Notes (IDNotes) et Calculs (IDNotes)	Liaison supprimée entre les fichiers Notes (IDNotes) et Calculs (IDNotes)

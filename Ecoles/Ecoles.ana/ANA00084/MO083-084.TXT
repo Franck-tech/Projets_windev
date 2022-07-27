@@ -1,0 +1,2 @@
+//MO083-084.TXT ANA00083 TO ANA00084
+Calculs	MoyGlobal	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique MoyGlobal a pour nouveau type Réel sur 4 octets

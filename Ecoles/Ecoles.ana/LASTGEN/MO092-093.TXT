@@ -1,0 +1,7 @@
+//MO092-093.TXT ANA00092 TO ANA00093
+Calculs		TAR	96	nouvelle taille enregistrement : 96
+Calculs	IDÉlève	RUB+		IDÉlève est une nouvelle clé
+Calculs	IDProfesseur	RUB+		IDProfesseur est une nouvelle clé
+Calculs	IDÉlève	RUB-		la rubrique IDÉlève est supprimée
+Contrainte_Professeur_Calculs		NWL	Professeur (IDProfesseur) et Calculs (IDProfesseur)	Nouvelle liaison entre les fichiers Professeur (IDProfesseur) et Calculs (IDProfesseur)
+Contrainte_Élève_Calculs		DEL	Élève (IDÉlève) et Calculs (IDÉlève)	Liaison supprimée entre les fichiers Élève (IDÉlève) et Calculs (IDÉlève)

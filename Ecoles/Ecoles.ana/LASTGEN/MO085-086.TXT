@@ -1,0 +1,7 @@
+//MO085-086.TXT ANA00085 TO ANA00086
+Calculs		TAR	96	nouvelle taille enregistrement : 96
+Calculs	IDNotes	RUB+		IDNotes est une nouvelle clé
+Calculs	IDÉlève	RUB+		IDÉlève est une nouvelle clé
+Calculs	IDÉlève	RUB-		la rubrique IDÉlève est supprimée
+Contrainte_Notes_Calculs		NWL	Notes (IDNotes) et Calculs (IDNotes)	Nouvelle liaison entre les fichiers Notes (IDNotes) et Calculs (IDNotes)
+Contrainte_Élève_Calculs		DEL	Élève (IDÉlève) et Calculs (IDÉlève)	Liaison supprimée entre les fichiers Élève (IDÉlève) et Calculs (IDÉlève)

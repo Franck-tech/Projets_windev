@@ -1,0 +1,4 @@
+//MO084-085.TXT ANA00084 TO ANA00085
+Calculs	IDÉlève	RUB+		IDÉlève est une nouvelle clé
+Calculs	IDÉlève	RUB-		la rubrique IDÉlève est supprimée
+Contrainte_Élève_Calculs		NWL	Élève (IDÉlève) et Calculs (IDÉlève)	Nouvelle liaison entre les fichiers Élève (IDÉlève) et Calculs (IDÉlève)

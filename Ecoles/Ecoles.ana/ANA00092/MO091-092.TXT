@@ -1,0 +1,2 @@
+//MO091-092.TXT ANA00091 TO ANA00092
+Contrainte_Élève_Calculs		NWL	Élève (IDÉlève) et Calculs (IDÉlève)	Nouvelle liaison entre les fichiers Élève (IDÉlève) et Calculs (IDÉlève)

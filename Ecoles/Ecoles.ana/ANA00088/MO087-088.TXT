@@ -1,0 +1,3 @@
+//MO087-088.TXT ANA00087 TO ANA00088
+Calculs		TAR	96	nouvelle taille enregistrement : 96
+Calculs	IDÉlève	RUB+		IDÉlève est une nouvelle clé

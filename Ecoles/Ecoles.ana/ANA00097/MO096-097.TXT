@@ -1,0 +1,2 @@
+//MO096-097.TXT ANA00096 TO ANA00097
+Professeur	Statut	CLEU*		la rubrique Statut est maintenant une clé

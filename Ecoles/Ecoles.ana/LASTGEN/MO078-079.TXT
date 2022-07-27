@@ -1,0 +1,3 @@
+//MO078-079.TXT ANA00078 TO ANA00079
+Rang		TAR	80	nouvelle taille enregistrement : 80
+Rang	IDÉlève	RUB+		IDÉlève est une nouvelle clé

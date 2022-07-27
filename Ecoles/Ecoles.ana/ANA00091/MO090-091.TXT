@@ -1,0 +1,3 @@
+//MO090-091.TXT ANA00090 TO ANA00091
+Notes		TAR	211	nouvelle taille enregistrement : 211
+Notes	Profs	RUB+		Profs est une nouvelle rubrique

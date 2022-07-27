@@ -1,0 +1,4 @@
+//MO093-094.TXT ANA00093 TO ANA00094
+Calculs		TAR	88	nouvelle taille enregistrement : 88
+Calculs	IDProfesseur	RUB-		la rubrique IDProfesseur est supprimée
+Contrainte_Professeur_Calculs		DEL	Professeur (IDProfesseur) et Calculs (IDProfesseur)	Liaison supprimée entre les fichiers Professeur (IDProfesseur) et Calculs (IDProfesseur)

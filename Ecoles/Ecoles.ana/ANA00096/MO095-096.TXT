@@ -1,0 +1,5 @@
+//MO095-096.TXT ANA00095 TO ANA00096
+Calculs		TAR	139	nouvelle taille enregistrement : 139
+Calculs	NMatricule	RUB+		NMatricule est une nouvelle clé
+Calculs	IDAnnée	RUB-		la rubrique IDAnnée est supprimée
+Contrainte_Année_Calculs		DEL	Année (IDAnnée) et Calculs (IDAnnée)	Liaison supprimée entre les fichiers Année (IDAnnée) et Calculs (IDAnnée)
