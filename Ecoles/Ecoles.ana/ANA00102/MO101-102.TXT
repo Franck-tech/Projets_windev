@@ -1,0 +1,11 @@
+//MO101-102.TXT ANA00101 TO ANA00102
+Frais		TAR	200	nouvelle taille enregistrement : 200
+Frais	DatePaye	RUB-		la rubrique DatePaye est supprimée
+Frais	Paye	RUB-		la rubrique Paye est supprimée
+Frais	Restant	RUB-		la rubrique Restant est supprimée
+Frais	TotalPaye	RUB-		la rubrique TotalPaye est supprimée
+Frais	NMatricule	RUB-		la rubrique NMatricule est supprimée
+Frais	Nom	RUB-		la rubrique Nom est supprimée
+Frais	Prénoms	RUB-		la rubrique Prénoms est supprimée
+Paiement		NFI		nouveau fichier
+Contrainte_Frais_Paiement		NWL	Frais (IDFrais) et Paiement (IDFrais)	Nouvelle liaison entre les fichiers Frais (IDFrais) et Paiement (IDFrais)

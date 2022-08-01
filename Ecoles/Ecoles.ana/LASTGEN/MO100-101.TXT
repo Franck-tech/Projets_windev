@@ -1,0 +1,2 @@
+//MO100-101.TXT ANA00100 TO ANA00101
+Frais		NFI		nouveau fichier
