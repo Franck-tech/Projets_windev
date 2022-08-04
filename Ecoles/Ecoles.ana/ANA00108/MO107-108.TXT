@@ -1,0 +1,6 @@
+//MO107-108.TXT ANA00107 TO ANA00108
+École	NomEcole	CLE-*		la rubrique NomEcole n'est plus une clé
+École	Contact	CLE-*		la rubrique Contact n'est plus une clé
+École	NomDirecteur	CLE-*		la rubrique NomDirecteur n'est plus une clé
+École	PrénomsDirecteur	CLE-*		la rubrique PrénomsDirecteur n'est plus une clé
+École	Téléphone	CLE-*		la rubrique Téléphone n'est plus une clé

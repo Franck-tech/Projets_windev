@@ -1,0 +1,4 @@
+//MO110-111.TXT ANA00110 TO ANA00111
+Élève		TAR	616	nouvelle taille enregistrement : 616
+Élève	NomDirecteur	RUB-		la rubrique NomDirecteur est supprimée
+Élève	PrénomsDirecteur	RUB-		la rubrique PrénomsDirecteur est supprimée

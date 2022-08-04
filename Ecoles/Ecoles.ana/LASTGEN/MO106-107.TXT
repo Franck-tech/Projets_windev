@@ -1,0 +1,3 @@
+//MO106-107.TXT ANA00106 TO ANA00107
+École		TAR	323	nouvelle taille enregistrement : 323
+École	Contact	RUB+		Contact est une nouvelle clé

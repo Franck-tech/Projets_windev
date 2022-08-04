@@ -1,0 +1,5 @@
+//MO105-106.TXT ANA00105 TO ANA00106
+École		TAR	272	nouvelle taille enregistrement : 272
+École	Téléphone	CLEU*		la rubrique Téléphone est maintenant une clé
+École	NomDirecteur	RUB+		NomDirecteur est une nouvelle clé
+École	PrénomsDirecteur	RUB+		PrénomsDirecteur est une nouvelle clé
